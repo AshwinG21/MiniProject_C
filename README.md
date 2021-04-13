@@ -2,12 +2,12 @@
 
 
 
-
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/64b3676768fd4673addceeb5611a9349)](https://www.codacy.com/gh/Annappa259804/MiniProject_C/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Annappa259804/MiniProject_C&amp;utm_campaign=Badge_Grade)
 
 
 Build | [Git Inspector](using github.io option) | Unity | cppcheck|Valgrind|Codacy|
 ------|----------|----|---|------|--------|
-|[![C/C++ CI](https://github.com/Annappa259804/MiniProject_C/actions/workflows/c-build.yml/badge.svg)](https://github.com/Annappa259804/MiniProject_C/actions/workflows/c-build.yml)|[![Contribution Check - Git Inspector](https://github.com/Annappa259804/MiniProject_C/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/Annappa259804/MiniProject_C/actions/workflows/gitinspector.yml)  |  [![Unit testing](https://github.com/Annappa259804/MiniProject_C/actions/workflows/unit-test.yml/badge.svg)](https://github.com/Annappa259804/MiniProject_C/actions/workflows/unit-test.yml)    | [![cppcheck-action](https://github.com/Annappa259804/MiniProject_C/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/Annappa259804/MiniProject_C/actions/workflows/cppcheck.yml) |  [![Valgrind](https://github.com/Annappa259804/MiniProject_C/actions/workflows/Valgrind.yml/badge.svg)](https://github.com/Annappa259804/MiniProject_C/actions/workflows/Valgrind.yml)  |     |
+|[![C/C++ CI](https://github.com/Annappa259804/MiniProject_C/actions/workflows/c-build.yml/badge.svg)](https://github.com/Annappa259804/MiniProject_C/actions/workflows/c-build.yml)|[![Contribution Check - Git Inspector](https://github.com/Annappa259804/MiniProject_C/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/Annappa259804/MiniProject_C/actions/workflows/gitinspector.yml)  |  [![Unit testing](https://github.com/Annappa259804/MiniProject_C/actions/workflows/unit-test.yml/badge.svg)](https://github.com/Annappa259804/MiniProject_C/actions/workflows/unit-test.yml)    | [![cppcheck-action](https://github.com/Annappa259804/MiniProject_C/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/Annappa259804/MiniProject_C/actions/workflows/cppcheck.yml) |  [![Valgrind](https://github.com/Annappa259804/MiniProject_C/actions/workflows/Valgrind.yml/badge.svg)](https://github.com/Annappa259804/MiniProject_C/actions/workflows/Valgrind.yml)  | [![Codacy Badge](https://app.codacy.com/project/badge/Grade/64b3676768fd4673addceeb5611a9349)](https://www.codacy.com/gh/Annappa259804/MiniProject_C/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Annappa259804/MiniProject_C&amp;utm_campaign=Badge_Grade)    |
 
 
 ## Folder Structure

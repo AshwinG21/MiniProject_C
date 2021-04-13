@@ -23,11 +23,11 @@ Folder             | Description
 
 SF Id. |  Name                  | No.  |  Features                          | Issuess Raised |Issues Resolved|No Test Cases|Test Case Pass
 -------|------------------------|------|------------------------------------|----------------|---------------|-------------|--------------
-`259804` | Annappa M            |1.    |Calculate Total series Resistance   |  No            |  No           | 4          | 4    
-`259804` | Annappa M            |2.    |Calculate Total Parallel Resistance  |  No            |  No           | 3         | 3   
-`259804` | Annappa M            |3.    |Calculate Resistance based on voltage and current(Ohm's law) |  No            |  No           | 3          | 3    
-`259804` | Annappa M            |4.    |Calculate Resistance based on color code |  No            |  No           | 3         | 3     
-`259804` | Annappa M            |4.    |Unit conversion(Kohm-ohm,ohm-Mohm......) |  No            |  No           | 4          | 4    
+`259804` | Annappa M            |1.    |Calculate Total series Resistance   |  1            |  1          | 4          | 4    
+`259804` | Annappa M            |2.    |Calculate Total Parallel Resistance  |  0            |  0           | 3         | 3   
+`259804` | Annappa M            |3.    |Calculate Resistance based on voltage and current(Ohm's law) |  1            |  1          | 3          | 3    
+`259804` | Annappa M            |4.    |Calculate Resistance based on color code |  1            |  1          | 3         | 3     
+`259804` | Annappa M            |4.    |Unit conversion(Kohm-ohm,ohm-Mohm......) |  0            |  0           | 4          | 4    
     
 
 ## Challenges Faced 

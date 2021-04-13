@@ -7,7 +7,7 @@
 
 Build | [Git Inspector](using github.io option) | Unity | cppcheck|Valgrind|Codacy|
 ------|----------|----|---|------|--------|
-|  b |   |    |  |    |     |
+|[![C/C++ CI](https://github.com/Annappa259804/MiniProject_C/actions/workflows/c-build.yml/badge.svg)](https://github.com/Annappa259804/MiniProject_C/actions/workflows/c-build.yml)|[![Contribution Check - Git Inspector](https://github.com/Annappa259804/MiniProject_C/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/Annappa259804/MiniProject_C/actions/workflows/gitinspector.yml)  |  [![C/C++ CI](https://github.com/Annappa259804/MiniProject_C/actions/workflows/c-build.yml/badge.svg)](https://github.com/Annappa259804/MiniProject_C/actions/workflows/c-build.yml)    | [![cppcheck-action](https://github.com/Annappa259804/MiniProject_C/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/Annappa259804/MiniProject_C/actions/workflows/cppcheck.yml) |  [![Valgrind](https://github.com/Annappa259804/MiniProject_C/actions/workflows/Valgrind.yml/badge.svg)](https://github.com/Annappa259804/MiniProject_C/actions/workflows/Valgrind.yml)  |     |
 
 
 ## Folder Structure

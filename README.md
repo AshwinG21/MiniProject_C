@@ -1,6 +1,6 @@
 # **Resistance Calculator**
 
-
+![istockphoto-1153678430-612x612](https://user-images.githubusercontent.com/80380749/114403495-78592180-9bc2-11eb-98eb-c6a19a50ebb4.jpg)
 
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/64b3676768fd4673addceeb5611a9349)](https://www.codacy.com/gh/Annappa259804/MiniProject_C/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Annappa259804/MiniProject_C&amp;utm_campaign=Badge_Grade)
 

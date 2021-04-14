@@ -12,6 +12,7 @@ Build | [Git Inspector](using github.io option) | Unity | cppcheck|Valgrind|Coda
 
 
 ## Folder Structure
+
 Folder             | Description
 -------------------| -----------------------------------------
 `1_Requirements`   | Documents detailing requirements and research

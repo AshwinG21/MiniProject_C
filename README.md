@@ -29,7 +29,7 @@ SF Id. |  Name                  | No.  |  Features                          | Is
    
 ## Challenges Faced 
 
-1. Total resistance when connected in Parallel/Series
-2. Tolerance Factor for each band
-3. Colour Identification of the Resistor bands
-4. Calculating resistance when current is 0
+1.   Total resistance when connected in Parallel/Series
+2.   Tolerance Factor for each band
+3.   Colour Identification of the Resistor bands
+4.   Calculating resistance when current is 0
